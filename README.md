@@ -1,4 +1,4 @@
-# coins-app
+# coinage-frontend
 
 ## Project setup
 ```
